@@ -1,17 +1,17 @@
 {
-  "fetched_at_utc": "2026-08-20T05:24:48.828721+00:00",
+  "fetched_at_utc": "2026-08-20T05:31:06.148211+00:00",
   "source": "Yahoo Finance (endpoint publik tidak resmi)",
   "data": [
     {
-      "ticker": "VKTR",
-      "price": 940.0,
-      "prev_close": 875.0,
-      "day_high": 960.0,
-      "day_low": 880.0,
-      "volume": 134460200,
+      "ticker": "MGLV",
+      "price": 11400.0,
+      "prev_close": 10950.0,
+      "day_high": 11950.0,
+      "day_low": 11000.0,
+      "volume": 1060100,
       "currency": "IDR",
       "exchange": "JKT",
-      "quote_time_utc": "2026-08-20T04:59:56+00:00",
+      "quote_time_utc": "2026-08-20T04:59:49+00:00",
       "market_state": null,
       "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
     }
