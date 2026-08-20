@@ -1,0 +1,97 @@
+{
+  "fetched_at_utc": "2026-08-20T00:48:07.982181+00:00",
+  "source": "Yahoo Finance (endpoint publik tidak resmi)",
+  "data": [
+    {
+      "ticker": "APLN",
+      "price": 145.0,
+      "prev_close": 137.0,
+      "day_high": 163.0,
+      "day_low": 135.0,
+      "volume": 780648200,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:14:43+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    },
+    {
+      "ticker": "ISAT",
+      "price": 2740.0,
+      "prev_close": 2600.0,
+      "day_high": 2850.0,
+      "day_low": 2580.0,
+      "volume": 156186000,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:14:35+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    },
+    {
+      "ticker": "CTRA",
+      "price": 620.0,
+      "prev_close": 630.0,
+      "day_high": 655.0,
+      "day_low": 620.0,
+      "volume": 26881100,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:14:24+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    },
+    {
+      "ticker": "DMAS",
+      "price": 163.0,
+      "prev_close": 161.0,
+      "day_high": 169.0,
+      "day_low": 158.0,
+      "volume": 583972300,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:14:41+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    },
+    {
+      "ticker": "BSDE",
+      "price": 650.0,
+      "prev_close": 610.0,
+      "day_high": 705.0,
+      "day_low": 635.0,
+      "volume": 139339400,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:12:26+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    },
+    {
+      "ticker": "BFIN",
+      "price": 910.0,
+      "prev_close": 930.0,
+      "day_high": 930.0,
+      "day_low": 905.0,
+      "volume": 8535000,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:03:28+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    },
+    {
+      "ticker": "ASII",
+      "price": 4730.0,
+      "prev_close": 4790.0,
+      "day_high": 4800.0,
+      "day_low": 4720.0,
+      "volume": 44815500,
+      "currency": "IDR",
+      "exchange": "JKT",
+      "quote_time_utc": "2026-08-19T09:13:28+00:00",
+      "market_state": null,
+      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+    }
+  ]
+}
