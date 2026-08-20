@@ -4,7 +4,12 @@ on:
   schedule:
     # Tiap 15 menit, jam 08:30-16:30 WIB (= 01:30-09:30 UTC), Senin-Jumat
     - cron: "*/15 1-9 * * 1-5"
-  workflow_dispatch: {}  # biar bisa dipicu manual dari tab Actions kalau perlu
+  workflow_dispatch:
+    inputs:
+      tickers:
+        description: "Ticker custom (pisah spasi), kosongin buat pakai portofolio default"
+        required: false
+        default: ""
 
 jobs:
   update:
@@ -19,8 +24,12 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch data
-        run: python fetch_idx.py APLN ISAT CTRA DMAS BSDE BFIN ASII
-        # ^ ganti/tambah daftar ticker sesuai yang mau lu pantau
+        run: |
+          if [ -n "${{ github.event.inputs.tickers }}" ]; then
+            python fetch_idx.py ${{ github.event.inputs.tickers }}
+          else
+            python fetch_idx.py AHAP ARCI ASII BBCA BFIN BREN BUMI BUVA CITA CNKO COAL CUAN DEWA DKFT EMAS EMTK GOLF GOTO GTSI HADE IMPC KIJA KIOS MGLV PBSA PRDL PTRO RAJA RATU SIMP SSIA TOBA WBSA
+          fi
 
       - name: Commit hasil
         run: |
