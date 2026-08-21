@@ -1,17 +1,17 @@
 {
-  "fetched_at_utc": "2026-08-21T02:13:39.616071+00:00",
+  "fetched_at_utc": "2026-08-21T02:18:28.147474+00:00",
   "source": "Yahoo Finance (endpoint publik tidak resmi)",
   "data": [
     {
-      "ticker": "TPIA",
-      "price": 2030.0,
-      "prev_close": 1965.0,
-      "day_high": 2040.0,
-      "day_low": 2000.0,
-      "volume": 42390000,
+      "ticker": "AADI",
+      "price": 9900.0,
+      "prev_close": 9900.0,
+      "day_high": 9925.0,
+      "day_low": 9825.0,
+      "volume": 320900,
       "currency": "IDR",
       "exchange": "JKT",
-      "quote_time_utc": "2026-08-21T02:03:38+00:00",
+      "quote_time_utc": "2026-08-21T02:08:24+00:00",
       "market_state": null,
       "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
     }
