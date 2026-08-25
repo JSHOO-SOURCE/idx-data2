@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-08-24T10:24:21.413488+00:00",
+  "fetched_at_utc": "2026-08-25T03:35:02.863210+00:00",
   "source": "Yahoo Finance (endpoint publik tidak resmi)",
   "data": [
     {
@@ -319,7 +319,7 @@
       "price": 805.0,
       "prev_close": 865.0,
       "day_high": 865.0,
-      "day_low": 800.0,
+      "day_low": 805.0,
       "volume": 2145000,
       "currency": "IDR",
       "exchange": "JKT",
