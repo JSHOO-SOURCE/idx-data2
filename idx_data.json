@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-09-04T09:51:31.292349+00:00",
+  "fetched_at_utc": "2026-09-07T01:05:54.458429+00:00",
   "source": "Yahoo Finance (endpoint publik tidak resmi)",
   "data": [
     {
@@ -115,7 +115,7 @@
       "volume": 159900,
       "currency": "IDR",
       "exchange": "JKT",
-      "quote_time_utc": "2026-09-04T09:00:09+00:00",
+      "quote_time_utc": "2026-09-04T09:00:06+00:00",
       "market_state": null,
       "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
     },
@@ -414,7 +414,7 @@
       "volume": 11661900,
       "currency": "IDR",
       "exchange": "JKT",
-      "quote_time_utc": "2026-09-04T09:09:18+00:00",
+      "quote_time_utc": "2026-09-04T09:09:19+00:00",
       "market_state": null,
       "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
     },
