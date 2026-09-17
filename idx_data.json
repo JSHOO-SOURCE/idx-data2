@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-09-17T01:51:32.543206+00:00",
+  "fetched_at_utc": "2026-09-17T02:06:14.298010+00:00",
   "source": "Yahoo Finance (endpoint publik tidak resmi)",
   "data": [
     {
@@ -82,16 +82,7 @@
     },
     {
       "ticker": "BUMI",
-      "price": 202.0,
-      "prev_close": 208.0,
-      "day_high": 210.0,
-      "day_low": 200.0,
-      "volume": 2455123200,
-      "currency": "IDR",
-      "exchange": "JKT",
-      "quote_time_utc": "2026-09-16T09:14:58+00:00",
-      "market_state": null,
-      "note": "Delayed quote (~15-20 menit), bukan real-time tick-by-tick"
+      "error": "Gagal konek: _ssl.c:993: The handshake operation timed out"
     },
     {
       "ticker": "BUVA",
