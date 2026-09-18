@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-09-18T09:37:12.906601+00:00",
+  "fetched_at_utc": "2026-09-18T09:50:20.685909+00:00",
   "source": "Yahoo Finance (endpoint publik tidak resmi)",
   "data": [
     {
@@ -359,7 +359,7 @@
       "prev_close": 760.0,
       "day_high": 770.0,
       "day_low": 725.0,
-      "volume": 44267500,
+      "volume": 44267000,
       "currency": "IDR",
       "exchange": "JKT",
       "quote_time_utc": "2026-09-18T09:14:35+00:00",
@@ -372,7 +372,7 @@
       "prev_close": 4350.0,
       "day_high": 4390.0,
       "day_low": 4190.0,
-      "volume": 5643900,
+      "volume": 5643800,
       "currency": "IDR",
       "exchange": "JKT",
       "quote_time_utc": "2026-09-18T09:14:34+00:00",
@@ -411,7 +411,7 @@
       "prev_close": 535.0,
       "day_high": 540.0,
       "day_low": 510.0,
-      "volume": 4804800,
+      "volume": 4804700,
       "currency": "IDR",
       "exchange": "JKT",
       "quote_time_utc": "2026-09-18T09:14:14+00:00",
